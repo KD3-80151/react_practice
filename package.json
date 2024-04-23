@@ -1,0 +1,33 @@
+{
+  "name": "react-practice",
+  "version": "1.0.0",
+  "description": "this is beginning of react",
+
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KD3-80151/react_practice.git"
+  },
+  "keywords": [],
+  "author": "Sagar Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KD3-80151/react_practice/issues"
+  },
+  "homepage": "https://github.com/KD3-80151/react_practice#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
